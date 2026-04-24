@@ -87,11 +87,6 @@ https://github.com/BHUMKIRAN
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHUMKIRAN&show_icons=true&theme=default)
-
----
 
 ## Top Languages
 
