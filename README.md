@@ -1,25 +1,24 @@
 # Hi, I'm Bhum Kiran
 
-Full Stack Developer | Next.js Enthusiast | UI Builder  
-Based in Nepal  
-I build modern, scalable, and performance-focused web applications  
+ Full Stack Developer | Next.js Specialist | UI Engineer   
+ Based in Nepal  
+ I build scalable, production-ready web applications with modern architecture and clean UI systems  
 
 ---
 
 ## About Me
 
-- Currently working on full-stack web apps using Next.js and Node.js  
-- Focused on clean architecture, performance, and UI/UX  
-- Learning advanced frontend systems like SSR, caching, and TanStack Query  
-- Exploring system design and scalable backend patterns  
-- Interested in building real-world production-level applications  
+- Building full-stack web applications using **Next.js, Node.js, and modern backend systems**
+- Focused on **performance optimization, scalable architecture, and clean UI/UX design**
+- Experienced in deploying and testing real-world applications with **Docker, Nginx, Cloudflare, and ngrok**
+- Strong interest in **system design, API architecture, and production-level engineering**
+- Comfortable working across frontend, backend, and deployment pipelines
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
@@ -28,7 +27,6 @@ I build modern, scalable, and performance-focused web applications
 ---
 
 ### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
@@ -37,40 +35,61 @@ I build modern, scalable, and performance-focused web applications
 
 ---
 
-### DevOps & Tools
-
+### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge) 
 
 ---
 
-## Featured Work
+### Other Tools & Systems
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
 
-### Full Stack Applications
-- Authentication systems using JWT and cookies  
-- CRUD-based admin dashboards  
-- API-driven frontend applications  
+---
 
-### UI and Frontend Systems
-- Currency tracker dashboard  
-- Responsive UI systems with Tailwind  
-- Component-based architecture design  
+## Featured Projects
 
-### Future Projects
-- Movie streaming platform  
-- SaaS dashboard system  
-- Real-time chat application  
+### Full Stack Systems
+- JWT-based authentication system (cookies + secure sessions)
+- Role-based admin dashboard with CRUD operations
+- RESTful API architecture with scalable backend structure
+
+---
+
+### Frontend & UI Systems
+- Currency tracking dashboard with real-time API integration
+- Responsive UI systems built with Tailwind + component architecture
+- Dynamic data-driven interfaces with optimized rendering
+
+---
+
+### Deployment & Real-world Engineering
+- Projects deployed using **Docker + Nginx**
+- Local tunneling and testing via **ngrok**
+- Domain & SSL management using **Cloudflare**
+- Production-style deployment workflow setup
+
+---
+
+### Selected Repositories
+- Production-ready full-stack apps
+- API-driven frontend projects
+- Authentication & admin systems
+- UI-heavy dashboard applications
+
+More projects available on GitHub:  
+https://github.com/BHUMKIRAN
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHUMKIRAN&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHUMKIRAN&show_icons=true&theme=default)
 
 ---
 
@@ -88,13 +107,13 @@ I build modern, scalable, and performance-focused web applications
 
 ## Contact
 
-GitHub: https://github.com/BHUMKIRAN  
-Email: your-email@example.com  
-Portfolio: add your website here  
-LinkedIn: add your LinkedIn here  
+- GitHub: https://github.com/BHUMKIRAN  
+- Email: kiran.khatri.787@gmail.com 
+- Portfolio: www.bhumkiran.com.np  
+- LinkedIn: Soon Available  
 
 ---
 
 ## Developer Mindset
 
-I focus on building scalable systems, not just interfaces.
+I build systems that are **scalable, maintainable, and production-ready**, focusing on engineering quality rather than just interface design.
