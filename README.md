@@ -32,6 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+![GraphQL API](https://img.shields.io/badge/GraphQL-API-E10098?style=for-the-badge)
 
 ---
 
@@ -105,7 +106,7 @@ https://github.com/BHUMKIRAN
 - GitHub: https://github.com/BHUMKIRAN  
 - Email: kiran.khatri.787@gmail.com 
 - Portfolio: www.bhumkiran.com.np  
-- LinkedIn: Soon Available  
+- LinkedIn: https://www.linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406/
 
 ---
 
