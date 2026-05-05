@@ -51,5 +51,10 @@ So I keep going.”
     <td align="center"><img src="https://img.shields.io/badge/API_Design-1F1E37?style=for-the-badge"/></td>
     <td align="center"><img src="https://img.shields.io/badge/System_Design-0A0A0A?style=for-the-badge"/></td>
   </tr>
+  
+   <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/></td>
+  </tr>
 </table>
 
