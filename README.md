@@ -13,10 +13,10 @@ So I keep going.”
 ---
 ## Contact
 
-- GitHub: github.com/BHUMKIRAN  
-- Email: kiran.khatri.787@gmail.com  
-- Portfolio: bhumkiran.com.np  
-- LinkedIn: linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406/
+- GitHub: [github.com/BHUMKIRAN](https://github.com/BHUMKIRAN)
+- Email: [kiran.khatri.787@gmail.com](mailto:kiran.khatri.787@gmail.com)
+- Portfolio: [bhumkiran.com.np](https://bhumkiran.com.np)
+- LinkedIn: [linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406](https://linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406)
 
 ---
 ## Tech Stack
