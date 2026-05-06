@@ -15,36 +15,38 @@ So I keep going.”
 
 <!-- GitHub -->
 <p>
-  <a href="https://github.com/BHUMKIRAN" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black;">
-    <img src="https://skillicons.dev/icons?i=github" height="20" style="display: block;"/>
-    github.com/BHUMKIRAN
+  <a href="https://github.com/BHUMKIRAN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30" align="center"/>
+    &nbsp;github.com/BHUMKIRAN
   </a>
 </p>
 
 <!-- Email -->
 <p>
-  <a href="mailto:kiran.khatri.787@gmail.com" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black;">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="20" style="display: block;"/>
-    kiran.khatri.787@gmail.com
+  <a href="mailto:kiran.khatri.787@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" align="center"/>
+    &nbsp;kiran.khatri.787@gmail.com
   </a>
 </p>
 
 <!-- Portfolio -->
 <p>
-  <a href="https://bhumkiran.com.np" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black;">
-    <img src="https://cdn.simpleicons.org/firefox/FF7139" height="20" style="display: block;"/>
-    bhumkiran.com.np
+  <a href="https://bhumkiran.com.np" target="_blank">
+    <img src="https://cdn.simpleicons.org/firefox/FF7139" height="30" align="center"/>
+    &nbsp;bhumkiran.com.np
   </a>
 </p>
 
 <!-- LinkedIn -->
 <p>
-  <a href="https://linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="20" style="display: block;"/>
-    linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406
+  <a href="https://linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" align="center"/>
+    &nbsp;linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406
   </a>
 </p>
+
 ---
+
 ## Tech Stack
 
 <table>
