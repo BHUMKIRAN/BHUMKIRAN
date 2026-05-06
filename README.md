@@ -51,7 +51,7 @@ So I keep going.”
 
 <!-- CORE LANGUAGES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,bash" />
 </p>
 
 <!-- FRONTEND -->
@@ -71,16 +71,14 @@ So I keep going.”
 
 <!-- DEVOPS / TOOLS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,cloudflare,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,cloudflare" />
+  <img src="https://cdn.simpleicons.org/ngrok/1F1E37" height="45"/>
 </p>
 
 <!-- NETWORK / API TOOLS -->
 <p align="center">
   <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
-  <img src="https://skillicons.dev/icons?i=swagger,ngrok" />
-</p>
-
-<!-- ARCHITECTURE -->
-<p align="center">
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="45"/>
   <img src="https://img.shields.io/badge/System_Design-0A0A0A?style=for-the-badge"/>
 </p>
+
