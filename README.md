@@ -49,42 +49,38 @@ So I keep going.”
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py" height="40"/></td>
-  </tr>
+<!-- CORE LANGUAGES -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
 
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/docker" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" height="40"/></td>
-  </tr>
+<!-- FRONTEND -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" height="40"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/ngrok" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/swagger" height="40"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/System_Design-0A0A0A?style=for-the-badge"/></td>
-  </tr>
+<!-- BACKEND -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
 
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bash" height="40"/></td>
-  </tr>
-</table>
+<!-- DATABASES -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
+<!-- DEVOPS / TOOLS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,cloudflare,bash" />
+</p>
+
+<!-- NETWORK / API TOOLS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=swagger,ngrok" />
+</p>
+
+<!-- ARCHITECTURE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Design-0A0A0A?style=for-the-badge"/>
+</p>
