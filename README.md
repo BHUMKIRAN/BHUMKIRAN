@@ -78,7 +78,7 @@ So I keep going.”
 <!-- NETWORK / API TOOLS -->
 <p align="center">
   <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="45"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/System_Design-0A0A0A?style=for-the-badge"/>
 </p>
 
