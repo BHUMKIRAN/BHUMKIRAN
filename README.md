@@ -13,10 +13,29 @@ So I keep going.”
 ---
 ## Contact
 
-- GitHub: [github.com/BHUMKIRAN](https://github.com/BHUMKIRAN)
-- Email: [kiran.khatri.787@gmail.com](mailto:kiran.khatri.787@gmail.com)
-- Portfolio: [bhumkiran.com.np](https://bhumkiran.com.np)
-- LinkedIn: [linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406](https://linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406)
+<p align="center">
+
+  <!-- GitHub -->
+  <a href="https://github.com/BHUMKIRAN">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+
+  <!-- Email (Gmail icon via simpleicons) -->
+  <a href="mailto:kiran.khatri.787@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="50"/>
+  </a>
+
+  <!-- Portfolio (custom web icon) -->
+  <a href="https://bhumkiran.com.np">
+    <img src="https://cdn.simpleicons.org/firefox/FF7139" height="50"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+
+</p>
 
 ---
 ## Tech Stack
@@ -53,8 +72,10 @@ So I keep going.”
   </tr>
   
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" />"><td/>
   </tr>
 </table>
 
