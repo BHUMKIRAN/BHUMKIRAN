@@ -1,8 +1,6 @@
 # Hi, I'm Bhum Kiran
 
-Full Stack Developer | Next.js Specialist | UI Engineer  
-Based in Nepal  
-I build scalable, production-ready web applications with modern architecture and clean UI systems.
+I build scalable, production-ready web applications with modern architecture and clean UI systems .
 
 ---
 ## Mindset
