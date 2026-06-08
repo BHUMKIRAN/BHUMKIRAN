@@ -21,9 +21,9 @@ So I keep going.”
 
 <!-- Email -->
 <p>
-  <a href="mailto:kiran.khatri.787@gmail.com" target="_blank">
+  <a href="mailto:bhumkiran@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" align="center"/>
-    &nbsp;kiran.khatri.787@gmail.com
+    &nbsp;bhumkiran@gmail.com
   </a>
 </p>
 
@@ -37,9 +37,9 @@ So I keep going.”
 
 <!-- LinkedIn -->
 <p>
-  <a href="https://linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406" target="_blank">
+  <a href="https://linkedin.com/in/bhum-bikram-silwal-kiran-354951413/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" align="center"/>
-    &nbsp;linkedin.com/in/bhum-bikram-silwal-kiran-bbb002406
+    &nbsp;linkedin.com/in/bhum-bikram-silwal-kiran-354951413/
   </a>
 </p>
 
